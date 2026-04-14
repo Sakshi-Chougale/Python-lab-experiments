@@ -31,9 +31,8 @@ This repository contains Python lab experiments from Experiment 1 to 7, includin
 
 ## 📂 Folder Structure
 
-Each experiment contains:
 - Python program file (`.py`)
-- Output screenshot (`.png`)
+- Output file (`.pdf`)
 
 ---
 
